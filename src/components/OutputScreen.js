@@ -8,7 +8,7 @@ class OutputScreen extends Component {
                 <OutputScreenRow value = {this.props.question} />
                 <OutputScreenRow value = {this.props.answer} />
             </div>
-         );
+         ); 
     }
 }
  
